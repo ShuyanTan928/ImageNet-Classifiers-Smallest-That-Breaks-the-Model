@@ -1,7 +1,0 @@
-Attack Example Details:
-  - Norm: linf
-  - Loss Function: ce
-  - Attack Type: untargeted
-  - True Label: 198
-  - Misclassified Label: 196
-  - Epsilon*: 0.0005340576171875
